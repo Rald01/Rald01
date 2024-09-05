@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gerald Biose
 ========================================================================================================================================
 
-Full-stack Developer
+Backend Developer
 -----------------------------
 I specialize in DevOps, automation and performance. With a DevOps mindset, practice Agile philosophy & Scrum methodology - essential to succeed in the era of Cloud Native Software Engineering.
 Creating applications using Python language, using various programming constructs and logic, including functions, REST APIs, and libraries
